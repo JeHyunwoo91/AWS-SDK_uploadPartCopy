@@ -1,0 +1,6 @@
+{
+  "paths" : {
+    "working": "/data/ingest_worker/working",
+    "awsSetting": "./config/awsSetting.json"
+  }
+}

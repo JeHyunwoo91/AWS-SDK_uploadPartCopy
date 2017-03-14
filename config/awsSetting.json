@@ -1,0 +1,9 @@
+{
+  "accessKeyId":"/* Your accessKeyID */",
+  "secretAccessKey":"/* Your secretAccessKey */",
+  "region":"/* Your region */",
+  "httpOptions": {
+    "timeout": 5000
+  },
+  "signatureVersion": "v4"
+}
